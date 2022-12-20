@@ -14,3 +14,4 @@ wiek = lambda x: "Dziecko" if x < 10 else ("Nastolatek" if x < 18 else "Dorosły
 print(wiek(5))
 print(wiek(15))
 print(wiek(25))
+
