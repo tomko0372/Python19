@@ -15,3 +15,6 @@ def druga():
 
 print(pierwsza())
 print(druga())
+print(a)
+
+
