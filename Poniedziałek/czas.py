@@ -1,5 +1,6 @@
 import calendar as c
 import time
+import arrow
 
 print(c.calendar(2022))
 print(c.month(1972, 3))
@@ -18,4 +19,4 @@ print(time_str2)
 
 print(arrow.now())
 print(arrow.now("Pacific/Pago_Pago"))
-print(arrow.formater)
+
