@@ -1,5 +1,3 @@
-from program import podziel
-from program.matematyka import dodaj, odejmij, pomnoz
 from program.matematyka import *
 
 print('Witaj w moim programia!')
